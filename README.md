@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-Powered Virtual Interior Designer and MERN stack web development projects.<br><br>👯 I’m looking to collaborate on<br>Open source web development and beginner-friendly MERN stack projects.<br><br>🤝 I’m looking for help with<br>Improving my full-stack development skills and building scalable web applications.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, MERN Stack, and problem solving with Python.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, Python, and beginner web development.<br><br>⚡ Fun fact<br>I enjoy building projects and documenting my coding journey while preparing for software development internships.
+💻 MERN Stack Developer | 📚 Learning DSA with Python
+🚀 Building projects & exploring AI-powered web applications
 
 
 ## 🌐 Socials:
