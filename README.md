@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-Powered Virtual Interior Designer and MERN stack web development projects.<br><br>👯 I’m looking to collaborate on<br>Open source web development and beginner-friendly MERN stack projects.<br><br>🤝 I’m looking for help with<br>Improving my full-stack development skills and building scalable web applications.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, MERN Stack, and problem solving with Python.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, Python, and beginner web development.<br><br>⚡ Fun fact<br>I enjoy building projects and documenting my coding journey while preparing for software development internships.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaypnin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vijaypn87) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaypn.in@gmail.com) 
 
