@@ -1,18 +1,20 @@
-# Vijay P N
+# About me
 
 Software Engineer | Full Stack Developer | AI & ML Engineer
 
 AI & ML Engineering student building scalable software and AI-powered applications.
 
+## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijaypn87)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaypnin/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Vijaypnin)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/vijaypnin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vijaypn.in@gmail.com)
 
-### Tech Stack
+# 💻 Tech Stack:
 
 **Languages**
+</br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -60,6 +62,5 @@ AI & ML Engineering student building scalable software and AI-powered applicatio
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vijaypn87&style=flat-square&color=blue)
-![3 Star](https://img.shields.io/badge/Rating-3★-yellow?style=flat-square)
 
 Thanks for visiting my profile — always open to connecting and collaborating.
