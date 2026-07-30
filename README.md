@@ -1,7 +1,13 @@
-# About me
+# About me:
 
-Software Engineer | Full Stack Developer | AI & ML Engineer
-AI & ML Engineering student building scalable software and AI-powered applications.
+Hi, I'm Vijay 👋
+
+AI & ML Engineering student.
+
+💻 Passionate about Software Development, AI, and building real-world projects  
+🚀 Currently exploring Full Stack Development, AI/ML, and Cloud Technologies  
+🌱 Currently learning DSA, React, MERN Stack, and System Design  
+💬 Ask me about Python, Web Development, AI, or anything tech-related
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vijaypn87)
