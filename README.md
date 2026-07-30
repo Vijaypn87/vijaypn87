@@ -4,7 +4,7 @@
 
 ### Software Engineer | Full Stack Developer | AI & ML Engineer
 
-AI & Machine Learning Engineering student passionate about building scalable software, AI-powered applications, and solving real-world problems through technology. Interested in full-stack development, backend engineering, cloud technologies, and artificial intelligence.
+AI & ML Engineering student building scalable software and AI-powered applications.
 
 <br>
 
@@ -15,18 +15,6 @@ AI & Machine Learning Engineering student passionate about building scalable sof
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaypn.in@gmail.com)
 
 </div>
-
-<br>
-
-## About Me
-
-- AI & ML Engineering student with a strong foundation in software engineering principles
-- Passionate about designing and building scalable, efficient software systems
-- Enjoy turning ideas into practical, working projects end to end
-- Focused on backend development, system design, and applied artificial intelligence
-- Active open source enthusiast who values clean, maintainable code
-- Enjoy solving algorithmic and real-world programming problems
-- Driven by the goal of building software products that create real impact
 
 <br>
 
@@ -94,42 +82,6 @@ AI & Machine Learning Engineering student passionate about building scalable sof
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
-
-<br>
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Flood Detection System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Career Compass</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" alt="RAG"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Heart Disease Prediction</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 <br>
 
