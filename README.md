@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Vijay P N
 
@@ -14,7 +14,7 @@ AI & ML Engineering student building scalable software and AI-powered applicatio
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vijaypnin/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaypn.in@gmail.com)
 
-</div>
+
 
 <br>
 
