@@ -1,3 +1,3 @@
-Hi, I'm Vijay 👋 AI/ML engineer building RAG systems, LLM tools and computer vision projects.
+Hi, I'm Vijay 👋 AI/ML engineer
 
 Check out my [portfolio](https://vijaypn.vercel.app) for more :)
