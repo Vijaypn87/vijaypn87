@@ -1,3 +1,3 @@
 Hi, I'm Vijay 👋 AI/ML engineer
 
-Check out my [portfolio](https://vijaypn.vercel.app) for more :)
+Check out my [portfolio](https://vijaypn.in) for more :)
